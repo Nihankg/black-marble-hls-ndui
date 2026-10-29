@@ -1,0 +1,15 @@
+{
+  "project": "YOUR_EARTH_ENGINE_PROJECT",
+  "roi_asset": null,
+  "roi_filter": {"field": "NAME_1", "value": "Hatay"},
+  "export_bbox": [36.14, 36.18, 36.19, 36.23],
+  "pre": ["2023-01-23", "2023-02-06"],
+  "post": ["2023-02-07", "2023-02-21"],
+  "optical": ["2022-01-01", "2023-02-06"],
+  "reference": ["2022-01-01", "2023-02-06"],
+  "min_valid_days": 1,
+  "cloud_quality_min": 2,
+  "cloud_class_max": 1,
+  "mask_shadow": false,
+  "drive_folder": "BlackMarblePython"
+}
